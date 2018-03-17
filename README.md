@@ -1,10 +1,8 @@
 # PetAdmin
 
-Is your inventory disorganized? Are you missing some fast sales because of out-of-stock items? Are your discounts and offers making you lose money? Is your financial management complex and inefficient? Do you not know what exactly is going on in the different parts of your company?
+Admin system for Petshop
 
-From highly intuitive POS systems to complete all-in-one retail software solutions, PetAdmin can help you manage, accurately and easily, your whole pet-shop business: from head office, to store, to POS, to accounting and stock management.
-
-With our retail management system, you can have a clear overview of your pet store’s whole operation through one single fully-integrated software solution. Plus, our system is so simple to implement and learn, and so fast to use, that both your employees and your customers will thank you.
+Generate with [fae gem](https://github.com/wearefine/fae)
 
 ## Installation
 
