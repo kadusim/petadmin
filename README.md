@@ -1,5 +1,7 @@
 # PetAdmin
 
+![print](/public/print.png)
+
 Admin system for Petshop
 
 Generate with [fae gem](https://github.com/wearefine/fae)
